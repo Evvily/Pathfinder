@@ -1,0 +1,6 @@
+MAS pathfinder {
+
+    environment: RewardsEnv
+
+    agents: explorer; explorer1; manager;
+}
